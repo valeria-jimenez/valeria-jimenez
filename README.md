@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Valeria</h1>
+<h1 align="center">Hi, I'm Valeria!</h1>
 <h3 align="center">I'm a passionate linguist and data analyst interested in ML, DL, and NLP.</h3>
 
 - 🔭 I’m currently working on [a marketing mix model project.](https://github.com/data-Zee/MMM-project-lewagon)
