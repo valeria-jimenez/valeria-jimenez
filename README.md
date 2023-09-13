@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Valeria</h1>
-<h3 align="center">I'm a passionate linguist and data analyst interested in ML, DL, and NLP..</h3>
+<h3 align="center">I'm a passionate linguist and data analyst interested in ML, DL, and NLP.</h3>
 
 - 🔭 I’m currently working on [a marketing mix model project.](https://github.com/data-Zee/MMM-project-lewagon)
 
 - 🌱 I’m currently learning **more about ML and time series.**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/valeria-jimenez](https://troopl.com/valeria-jimenez)
+- 👨‍💻 All of my projects are available on my [portfolio.](https://troopl.com/valeria-jimenez)
 
 - 💬 Ask me about **all things language related!**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/35p3ltwlh3](https://flowcv.com/resume/35p3ltwlh3)
+- 📄 Learn more about my experience with my [CV.](https://flowcv.com/resume/35p3ltwlh3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
